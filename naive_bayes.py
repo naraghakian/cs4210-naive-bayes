@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Nareh Aghakian
 # FILENAME: naive_bayes.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This program reads a training dataset, trains a Naive Bayes classifier, and predicts PlayTennis outcomes for test data.
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 8 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU ARE ALLOWED TO USE ANY PYTHON LIBRARY TO COMPLETE THIS PROGRAM
